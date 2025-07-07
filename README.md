@@ -15,14 +15,3 @@ Watch agents learn to walk one episode at a time. Then get stuck with exploding 
 [🚘 monocularSlam](https://github.com/0xiwin/monocularSlam)
 Simultaneous Localization and Mapping (SLAM) with monocular camera input.
 Real-time 3D world reconstruction from car dashcam footage. Inspired by *Geohot* Twitchslam.
-
-I hope my effort can make a small difference in making AI more community driven.
-
-Open to flying halfway across the planet for conferences (especially if I don't have to pay for the plane).
-
-**Support:**
-
-It still blows my mind that AgenticSeek took off like it did. With that growth comes a lot of new responsibilities, if you’ve found value in AgenticSeek consider buying me a coffee.
-
-*(or a GPU, I need more compute)*
-
